@@ -1,5 +1,6 @@
 # E-commerce
 The analysis of an e-commerce company in Tableau.
+
 The purpose of this project is to analyze the data of a company and identify areas for improvement.
 
 [Report](https://github.com/yaxenia/E-commerce/blob/main/Report.pdf) - a data overview with business proposals.
